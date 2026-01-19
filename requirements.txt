@@ -1,0 +1,10 @@
+python-multipart
+ultralytics
+opencv-python
+pillow
+matplotlib
+pyyaml
+pytest
+PyMuPDF
+fastapi
+uvicorn

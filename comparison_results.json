@@ -1,0 +1,663 @@
+{
+  "exact_matches": 7,
+  "top1_matches": 26,
+  "top2_matches": 7,
+  "top3_matches": 7,
+  "total_samples": 54,
+  "sample_details": {
+    "test_form_0001.jpg": {
+      "ground_truth": "833447588304",
+      "predictions": [
+        "833447588304",
+        "83344758830",
+        "8334475883"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0005.jpg": {
+      "ground_truth": "762992734230",
+      "predictions": [
+        "76299273550",
+        "76299273550",
+        "76299273550"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0007.jpg": {
+      "ground_truth": "916532435064",
+      "predictions": [
+        "916532435064",
+        "916532435064",
+        "916532435064"
+      ],
+      "top1_match": true,
+      "top2_match": true,
+      "top3_match": true,
+      "exact_match": true
+    },
+    "test_form_0008.jpg": {
+      "ground_truth": "382843751822",
+      "predictions": [
+        "382843751822",
+        "38284375182",
+        "3828437518222"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0009.jpg": {
+      "ground_truth": "469210511739",
+      "predictions": [
+        "469210511839",
+        "46921051183",
+        "4692105118"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0010.jpg": {
+      "ground_truth": "285778185152",
+      "predictions": [
+        "28577185152",
+        "2857718515",
+        "285771851521"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0012.jpg": {
+      "ground_truth": "980223068067",
+      "predictions": [
+        "980223068067",
+        "98022306806",
+        "9802230680"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0018.jpg": {
+      "ground_truth": "814454396562",
+      "predictions": [
+        "81445439562",
+        "8144543956",
+        "81445439"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0019.jpg": {
+      "ground_truth": "267342669070",
+      "predictions": [
+        "26742669070",
+        "2674266907",
+        "26742669070C"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0020.jpg": {
+      "ground_truth": "215064024754",
+      "predictions": [
+        "215064024754",
+        "21506402475",
+        "2150640247540"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0023.jpg": {
+      "ground_truth": "216098640819",
+      "predictions": [
+        "2160986419",
+        "2160986418",
+        "2160986417"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0024.jpg": {
+      "ground_truth": "110646435071",
+      "predictions": [
+        "110646435071",
+        "11064643507",
+        "1106464350712"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0025.jpg": {
+      "ground_truth": "751578045626",
+      "predictions": [
+        "751570626",
+        "751570626",
+        "751570626"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0026.jpg": {
+      "ground_truth": "044198625079",
+      "predictions": [
+        "044198625079",
+        "04419862507",
+        "0441986250"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0027.jpg": {
+      "ground_truth": "016357325585",
+      "predictions": [
+        "01635732585",
+        "0163573258",
+        "01635732584"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0029.jpg": {
+      "ground_truth": "205493526189",
+      "predictions": [
+        "20549526189",
+        "2054952618",
+        "205495261"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0030.jpg": {
+      "ground_truth": "831778519237",
+      "predictions": [
+        "831778519237",
+        "83177851923",
+        "8317785192370"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0032.jpg": {
+      "ground_truth": "064517364352",
+      "predictions": [
+        "064517364352",
+        "06451736435",
+        "64517364352"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0034.jpg": {
+      "ground_truth": "100858639159",
+      "predictions": [
+        "100558639159",
+        "10055863915",
+        "1005586391"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0035.jpg": {
+      "ground_truth": "200681102720",
+      "predictions": [
+        "200691102720",
+        "20069110272",
+        "00691102720"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0036.jpg": {
+      "ground_truth": "983846034064",
+      "predictions": [
+        "983846034064",
+        "983846034064",
+        "983846034064"
+      ],
+      "top1_match": true,
+      "top2_match": true,
+      "top3_match": true,
+      "exact_match": true
+    },
+    "test_form_0037.jpg": {
+      "ground_truth": "348952009197",
+      "predictions": [
+        "348952009197",
+        "348952009196",
+        "348952009198"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0040.jpg": {
+      "ground_truth": "442971519036",
+      "predictions": [
+        "442971519036",
+        "44297151903",
+        "4429715190"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0041.jpg": {
+      "ground_truth": "446512566944",
+      "predictions": [
+        "446512566944",
+        "446512566944",
+        "446512566944"
+      ],
+      "top1_match": true,
+      "top2_match": true,
+      "top3_match": true,
+      "exact_match": true
+    },
+    "test_form_0043.jpg": {
+      "ground_truth": "947223965314",
+      "predictions": [
+        "947223965314",
+        "94722396531",
+        "9472239653"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0044.jpg": {
+      "ground_truth": "358494827672",
+      "predictions": [
+        "358494827672",
+        "35849482767",
+        "3584948276"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0048.jpg": {
+      "ground_truth": "539453505026",
+      "predictions": [
+        "539453505026",
+        "53945350502",
+        "5394535050266"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0051.jpg": {
+      "ground_truth": "251961767688",
+      "predictions": [
+        "25196176768",
+        "2519617676",
+        "251961767680"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0053.jpg": {
+      "ground_truth": "843271559364",
+      "predictions": [
+        "84327155936",
+        "84327155936",
+        "84327155936"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0054.jpg": {
+      "ground_truth": "364326841851",
+      "predictions": [
+        "364326841841",
+        "36432684184",
+        "3643268418"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0055.jpg": {
+      "ground_truth": "249771955781",
+      "predictions": [
+        "24977155781",
+        "2497715578",
+        "249771557"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0056.jpg": {
+      "ground_truth": "926416600623",
+      "predictions": [
+        "92641680623",
+        "9264168062",
+        "92641680623"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0057.jpg": {
+      "ground_truth": "241569005410",
+      "predictions": [
+        "241569005410",
+        "241569005410",
+        "241569005410"
+      ],
+      "top1_match": true,
+      "top2_match": true,
+      "top3_match": true,
+      "exact_match": true
+    },
+    "test_form_0058.jpg": {
+      "ground_truth": "825182533613",
+      "predictions": [
+        "825182533613",
+        "82518253361",
+        "8251825336133"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0060.jpg": {
+      "ground_truth": "958880408901",
+      "predictions": [
+        "958880408901",
+        "95888040890",
+        "9588804089012"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0061.jpg": {
+      "ground_truth": "672357713437",
+      "predictions": [
+        "7235771343",
+        "7235771343",
+        "7235771343"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0066.jpg": {
+      "ground_truth": "486614173937",
+      "predictions": [
+        "486614173937",
+        "486614173937",
+        "486614173937"
+      ],
+      "top1_match": true,
+      "top2_match": true,
+      "top3_match": true,
+      "exact_match": true
+    },
+    "test_form_0067.jpg": {
+      "ground_truth": "132948494987",
+      "predictions": [
+        "132948494987",
+        "13294849498",
+        "12948494987"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0069.jpg": {
+      "ground_truth": "055736613745",
+      "predictions": [
+        "05573661375",
+        "0557366137",
+        "05573661374"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0072.jpg": {
+      "ground_truth": "104836203937",
+      "predictions": [
+        "104836283937",
+        "104836283937",
+        "104836283937"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0074.jpg": {
+      "ground_truth": "033568407624",
+      "predictions": [
+        "03356407624",
+        "0335640762",
+        "03356407"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0077.jpg": {
+      "ground_truth": "616246723436",
+      "predictions": [
+        "616246723436",
+        "61624672343",
+        "6162467234"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0078.jpg": {
+      "ground_truth": "976681409287",
+      "predictions": [
+        "976681409287",
+        "97668140928",
+        "9766814092"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0079.jpg": {
+      "ground_truth": "252284570121",
+      "predictions": [
+        "22284570121",
+        "2228457012",
+        "222845701211"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0080.jpg": {
+      "ground_truth": "850940091084",
+      "predictions": [
+        "8509400918",
+        "85094009184",
+        "8509400918"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0081.jpg": {
+      "ground_truth": "574992976720",
+      "predictions": [
+        "574992976920",
+        "574992976920",
+        "574992976920"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0083.jpg": {
+      "ground_truth": "125431889376",
+      "predictions": [
+        "125431889376",
+        "12543188937",
+        "1254318893"
+      ],
+      "top1_match": true,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0084.jpg": {
+      "ground_truth": "825463641743",
+      "predictions": [
+        "25463641743",
+        "2546364174",
+        "25463641743"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0088.jpg": {
+      "ground_truth": "723048515083",
+      "predictions": [
+        "72304851983",
+        "72304851883",
+        "7230485198"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0089.jpg": {
+      "ground_truth": "946939502511",
+      "predictions": [
+        "946939502511",
+        "946939502511",
+        "946939502511"
+      ],
+      "top1_match": true,
+      "top2_match": true,
+      "top3_match": true,
+      "exact_match": true
+    },
+    "test_form_0092.jpg": {
+      "ground_truth": "309166706293",
+      "predictions": [
+        "309166706293",
+        "309166706293",
+        "309166706293"
+      ],
+      "top1_match": true,
+      "top2_match": true,
+      "top3_match": true,
+      "exact_match": true
+    },
+    "test_form_0096.jpg": {
+      "ground_truth": "455801951809",
+      "predictions": [
+        "55801951809",
+        "5580195180",
+        "558019518095"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0097.jpg": {
+      "ground_truth": "708082158552",
+      "predictions": [
+        "70808218552",
+        "7080821855",
+        "708082185"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    },
+    "test_form_0100.jpg": {
+      "ground_truth": "499340943401",
+      "predictions": [
+        "49934094341",
+        "49934094342",
+        "49934094340"
+      ],
+      "top1_match": false,
+      "top2_match": false,
+      "top3_match": false,
+      "exact_match": false
+    }
+  },
+  "accuracy": {
+    "top1": 48.148148148148145,
+    "top2": 12.962962962962962,
+    "top3": 12.962962962962962,
+    "exact_match": 12.962962962962962
+  }
+}

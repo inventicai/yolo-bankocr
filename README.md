@@ -1,2 +1,3 @@
-# yolo-bankocr
-Specialized YOLO-based OCR for extracting account numbers from bank forms
+Change Directory:cd FineTuning
+
+Run:python main.py

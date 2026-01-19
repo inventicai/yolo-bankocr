@@ -1,0 +1,18 @@
+models:
+  segmenter_path: "models/segmenter.pt"
+  digit_model_path: "models/digit_classifier.pt"
+
+thresholds:
+  segmenter: 0.50
+  digit: 0.25
+
+crop:
+  left_margin: 0
+  right_margin: 0
+  top_margin: 0
+  bottom_margin: 0
+  auto_expand: false
+
+output:
+  json: "outputs/predictions.json"
+  save_visuals: false
