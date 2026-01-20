@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+FOLDER_PATH = os.getenv("FOLDER_PATH")
 def extract_json_from_content(content):
     """
     Extract JSON from content that may have extra text or markdown formatting.
@@ -104,18 +105,12 @@ def run_inference(model_name, image_base64,basename):
     return process_ocr_output(content, basename)
 
 
-
-FOLDER_PATH = r"C:\Users\Dudes\Desktop\RegressiveTest"
-with open(r"C:\Users\Dudes\FINE_TUNE_2\solutions\first_100_accounts.json",'r') as f:
-    actual_data = json.load(f)
-
 final_dict={}  
 model_name=os.getenv("MODEL_REPO")
 for filename in os.listdir(FOLDER_PATH):
     if filename.endswith(".png") or filename.endswith(".jpg"):
         image_path = os.path.join(FOLDER_PATH, filename)
         key_1=os.path.basename(image_path)
-        actual_account_number = actual_data.get(key_1, "Unknown")
         with open(image_path, "rb") as f:
             image_base64 = base64.b64encode(f.read()).decode("utf-8")    
         try:
@@ -126,6 +121,7 @@ for filename in os.listdir(FOLDER_PATH):
             final_dict.update(run_inference_result)
         except:
             pass
+        
 os.makedirs(model_name, exist_ok=True)
 with open(f"{model_name}.json",'w') as f:
     json.dump(final_dict,f,indent=4)    
