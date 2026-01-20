@@ -7,4 +7,5 @@ pyyaml
 pytest
 PyMuPDF
 fastapi
+dotenv
 uvicorn
