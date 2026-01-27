@@ -5,3 +5,10 @@ __pycache__/
 outputs/
 models/
 venv/
+.venv/
+All_data_png/
+*.pt
+*.keras
+env 1
+test_output.txt
+ACCURACY_TEST_SUMMARY.md

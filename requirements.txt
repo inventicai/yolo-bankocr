@@ -9,3 +9,8 @@ PyMuPDF
 fastapi
 dotenv
 uvicorn
+keras
+jax[cpu]
+numpy
+huggingface_hub
+tensorflow

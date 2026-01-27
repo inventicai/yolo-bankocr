@@ -2,9 +2,14 @@ models:
   segmenter_path: "models/segmenter.pt"
   digit_model_path: "models/digit_classifier.pt"
 
+# Set to true to use Keras model for digit classification
+# Top-1 will be YOLO prediction, Top-2 will be Keras prediction
+use_keras_classifier: true
+keras_model_path: "src/models/DigitClassifier.keras"
+
 thresholds:
   segmenter: 0.50
-  digit: 0.25
+  digit: 0.20
 
 crop:
   left_margin: 0
