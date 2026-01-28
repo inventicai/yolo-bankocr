@@ -1,7 +1,41 @@
+# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment
 .env
-.vscode/
-outputs/
-models/
+env/
 venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+
+# Project outputs
+outputs/
+
+# Models (large files)
+models/
+*.pt
+*.keras
+*.h5
+*.pth
+
+# Data folders
+All_data_png/
+
+# Results
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+env 1
+PERMUTATION_TESTING.md
